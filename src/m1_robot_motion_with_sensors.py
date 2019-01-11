@@ -157,7 +157,7 @@ class SimpleRoseBot(object):
                 break
             wait_for_seconds()
             k += 1
-    def go_straight_for_inches(self):
+    #def go_straight_for_inches(self):
 
 ###############################################################################
 # The  Motor   and   ColorSensor classes.  USE them, but do NOT modify them.
